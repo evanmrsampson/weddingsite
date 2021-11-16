@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f7b6ae9f-37bf-49f8-8976-e5732ba1d02c": {
+      "ProjectGuid": "f7b6ae9f-37bf-49f8-8976-e5732ba1d02c",
+      "DisplayName": "BlazorApp1",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
